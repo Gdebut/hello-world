@@ -1,3 +1,5 @@
-# hello-world
-Test
-Ceci est un test 
+# Main Directory
+
+My name is Gotyee
+
+This main directory regroups latest projects
