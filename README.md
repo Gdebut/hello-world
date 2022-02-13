@@ -2,4 +2,4 @@
 
 My name is Gotyee
 
-This main directory regroups latest projects
+This main directory regroups latest projects !
